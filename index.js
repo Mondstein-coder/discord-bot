@@ -1,3 +1,5 @@
+// trigger deploy
+
 import 'dotenv/config';
 import { Client, GatewayIntentBits, Events } from 'discord.js';
 
