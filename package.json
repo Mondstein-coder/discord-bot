@@ -1,0 +1,14 @@
+{
+  "name": "discord-setup-bot",
+  "version": "1.0.0",
+  "description": "Einmal-Bot zum automatischen Anlegen von Rollen, Kanälen und Rechten",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
